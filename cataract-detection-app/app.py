@@ -1,8 +1,4 @@
 # ==================== CATARACT DETECTION APP ====================
-"""
-Streamlit app untuk deteksi katarak
-Upload gambar mata → Model prediksi → Tampilkan hasil
-"""
 
 import streamlit as st
 import tensorflow as tf
